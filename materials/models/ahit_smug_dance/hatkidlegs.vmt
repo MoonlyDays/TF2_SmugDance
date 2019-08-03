@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\ahit_smug_dance\HatKidBody"
+	"$lightwarptexture" "models\ahit_smug_dance\lightwarp_game"
+
+
+}

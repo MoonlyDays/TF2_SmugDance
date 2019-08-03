@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\ahit_smug_dance\mouth_smug"
+
+               "$alphatest" 1
+
+}
